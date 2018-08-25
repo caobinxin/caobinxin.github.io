@@ -1,20 +1,20 @@
 # Site settings
-title: Gityuan
-SEOTitle: Gityuan博客 | 袁辉辉博客
+title: GitColby
+SEOTitle: GitColby博客 | 曹斌鑫博客
 header-img: img/nav-home.jpg
-email: gityuan@gmail.com
-description: "Android,Gityuan,Android技术博客,Android源码分析,袁辉辉"
-keyword: "Android,Gityuan,Android技术博客,Android源码分析,袁辉辉"
-url: "http://gityuan.com"              # your host, for absolute URL
+email: caobinxin666@163.com
+description: "Android,GitColby,Android技术博客,Android源码分析,曹斌鑫"
+keyword: "Android,Gityuan,Android技术博客,Android源码分析,曹斌鑫"
+url: "http://gitColby.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     gityuan
-zhihu_username:     gityuan
-google_userId:   101388994961262711072
+#weibo_username:     GitColby
+#zhihu_username:     GitColby
+#google_userId:   101388994961262711072
 #github_username:    yuanhuihui
 #twitter_username:  gityuan
 #facebook_username:  gityuan
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: gityuan
+duoshuo_username: GitColby
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
@@ -82,19 +82,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 hotpages: [
     {
         title: "Android系统开篇    ",
-        href:  "http://gityuan.com/android"
+        href:  "http://GitColby.com/android"
     }, {
         title: "彻底理解Android Binder通信架构",
-        href:  "http://gityuan.com/2016/09/04/binder-start-service/"
+        href:  "http://GitColby.com/2016/09/04/binder-start-service/"
     },{
         title: "Binder系列开篇",
-        href:  "http://gityuan.com/2015/10/31/binder-prepare/"
+        href:  "http://GitColby.com/2015/10/31/binder-prepare/"
     },{
         title: "理解Android进程创建流程",
-        href:  "http://gityuan.com/2016/03/26/app-process-create/"
+        href:  "http://GitColby.com/2016/03/26/app-process-create/"
     },{
         title: "如何自学 Android   ",
-        href:  "http://gityuan.com/2016/04/24/how-to-study-android/"
+        href:  "http://GitColby.com/2016/04/24/how-to-study-android/"
     }
 ]
 
